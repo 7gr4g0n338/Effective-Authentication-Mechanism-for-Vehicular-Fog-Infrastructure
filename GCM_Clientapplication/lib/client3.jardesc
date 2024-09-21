@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="E:/ECLIPSE/Clientapplication1.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/GCM_Clientapplication/lib/client3.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=GCM_Clientapplication/src&lt;client.app{MainControllerGUI.java[MainControllerGUI" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/GCM_Clientapplication/hs_err_pid14900.log"/>
+        <folder path="/GCM_Clientapplication/lib"/>
+        <file path="/GCM_Clientapplication/hs_err_pid3960.log"/>
+        <javaElement handleIdentifier="=GCM_Clientapplication/src"/>
+        <file path="/GCM_Clientapplication/hs_err_pid3572.log"/>
+        <file path="/GCM_Clientapplication/replay_pid3960.log"/>
+        <file path="/GCM_Clientapplication/hs_err_pid16524.log"/>
+        <file path="/GCM_Clientapplication/hs_err_pid18628.log"/>
+        <file path="/GCM_Clientapplication/hs_err_pid19712.log"/>
+        <file path="/GCM_Clientapplication/hs_err_pid13532.log"/>
+    </selectedElements>
+</jardesc>
