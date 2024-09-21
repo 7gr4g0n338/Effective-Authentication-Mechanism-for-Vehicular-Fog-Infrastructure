@@ -1,0 +1,25 @@
+# Maven
+target/
+
+# Gradle
+build/
+
+# IDE specific files
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Compiled Java classes
+*.class
+
+# Java JAR files
+*.jar
